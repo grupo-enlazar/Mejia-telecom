@@ -7,6 +7,7 @@ var gulp = require('gulp'),
     minifyCss = require('gulp-minify-css'),
     minifyHTML = require('gulp-minify-html'),
     connect = require('gulp-connect'),
+    watch = require('gulp-watch'),
     livereload = require('gulp-livereload');
 
 
